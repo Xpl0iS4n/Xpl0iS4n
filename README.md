@@ -7,9 +7,17 @@
 </p>
 
 # 💫 About Me
-- 🔭 **I’m currently working on:** An advance raspberry pi 4 robot module
-- 🌱 **I’m currently learning:** OSINT, Digital Forensics & Cryptography for CTF tournaments
-- 💬 **Ask me about:** For collaboration, projects, tech support or anything else
+I am a passionate and multidisciplinary student specializing in Robotics and Artificial Intelligence, with a dedication to advancing innovation where technology meets human progress. My academic journey is centered on developing intelligent systems, integrating advanced AI algorithms, and designing robotics solutions that address complex, real-world challenges. My approach combines technical excellence with creativity, leveraging my background in mathematics, physics, and computer science to solve problems with precision and ingenuity.
+
+My interests extend into cybersecurity, where I focus on secure system architecture, ethical hacking, and data protection. I am fascinated by the intersection of emerging technologies and cybersecurity, striving to ensure that intelligent systems are both robust and resilient against evolving digital threats.
+
+Beyond my core technical pursuits, I am inspired by the potential of AI and robotics in medicine—particularly in diagnostics, surgery, and personalized healthcare. My enthusiasm for video games reflects an appreciation for sophisticated design, simulation, and their applications in technology-driven education. I am also driven by a passion for space exploration, exploring how advanced robotics and AI can push the boundaries of discovery and extend humanity’s reach into the cosmos.
+
+I am committed to contributing meaningful solutions that enhance lives and address global challenges. I thrive in collaborative, innovative environments where I can combine my technical skills with creative problem-solving to make a positive, lasting impact. Whether building autonomous systems, enhancing AI-driven decision-making, fortifying digital defenses, or exploring new frontiers, I aim to shape a better, more connected future.
+
+- 🔭 **Currently working on:** Advanced Raspberry Pi 4 Robot Module
+- 🌱 **Currently learning:** OSINT, Digital Forensics & Cryptography for CTF tournaments
+- 💬 **Let's connect about:** Collaboration, projects, tech support, or any exciting ideas!
 
 ## 🌐 Socials
 [![LinkTree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](http://linktr.ee/Xpl0iS4n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidtawalbeh) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Xpl0iS4n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Xpl0iS4n) [![Telegram](https://img.shields.io/badge/Telegram-24A1DE.svg?logo=telegram&logoColor=white)](https://t.me/Xpl0iS4n) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Xpl0iS4n) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=plastic&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/zzearthandair?share_id=lodppEre4ac&locale=en-US) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Xpl0iS4n) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/xpl0is4n) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xpl0iS4n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tzearthandair@gmail.com)
