@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Zaid Tawalbeh</h1>
-<h3 align="center">Robotics/AI/ML & DL Engineer | Data Scientist | CTF Player | Author</h3>
+<h3 align="center">Robotics & AI/ML/DL Engineer | Data Scientist | CTF Player | Author</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
