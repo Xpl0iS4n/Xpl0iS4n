@@ -35,9 +35,10 @@
 
 # 🎓 Education
 ![42](https://img.shields.io/badge/-42-black.svg?style=plastic&logo=42&logoColor=white) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5.svg?style=plastic&logo=codecademy&logoColor=1F243A) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white) ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=plastic&logo=edX&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=plastic&logo=freecodecamp&logoColor=green) ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=plastic&logo=google-scholar&logoColor=white) ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa.svg?style=plastic&logo=microsoft&logoColor=white) ![Udacity](https://img.shields.io/badge/Udacity-grey.svg?style=plastic&logo=udacity&logoColor=15B8E6) ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=plastic&logo=Udemy&logoColor=white)
-
-<!--# 💰 Funding
-![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=plastic&logo=paypal&logoColor=white)-->
+<!--
+# 💰 Funding
+[![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=plastic&logo=paypal&logoColor=white)]() [![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=plastic&logo=shopify&logoColor=white)]()
+-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xpl0iS4n&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
