@@ -5,6 +5,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
 </p>
+<!--
+# 🗺️ Project Timeline / Roadmap
+![Visitor Badge](https://komarev.com/ghpvc/?username=Xpl0iS4n&style=flat-square) -->
 
 # 💫 About Me
 I am a passionate and multidisciplinary student specializing in Robotics and Artificial Intelligence, with a dedication to advancing innovation where technology meets human progress. My academic journey is centered on developing intelligent systems, integrating advanced AI algorithms, and designing robotics solutions that address complex, real-world challenges. My approach combines technical excellence with creativity, leveraging my background in mathematics, physics, and computer science to solve problems with precision and ingenuity.
@@ -31,6 +34,11 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/xpl0is4n)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xpl0iS4n)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tzearthandair@gmail.com)
+
+## 🌍 Dynamic Visitor Map
+<p align="center">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Xpl0iS4n" alt="Visitor Map" width="600"/>
+</p>
 
 <!--Snake game-->
 <div align="center">
@@ -211,21 +219,18 @@ Legend:
 - Tools
 - Game/Simulation
 -->
-
 <!--
 # 💰 Funding
 [![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=plastic&logo=paypal&logoColor=white)]() [![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=plastic&logo=shopify&logoColor=white)]()
 -->
 <!--
 # 🏅 Certifications & Achievements
-
 - Ex.1
 - Ex.2
 - Ex.3
 -->
 <!--
 # 📝 Blog Posts or Publications
-
 - [How AI is Changing Robotics](#)
 - [Top 10 CTF Tips](#)
 - [Add your articles or publications here]
