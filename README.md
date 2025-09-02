@@ -63,7 +63,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 <details>
 <summary><b>🛡️ Cybersecurity & CTF</b></summary>
 
-- **CTF Writeups** – Solutions and walkthroughs for Capture The Flag tournaments.
+- **CTF Write-ups** – Solutions and walkthroughs for Capture The Flag tournaments.
 - **Ethical Hacking Tools** – Scripts and utilities for penetration testing, OSINT, digital forensics, and cryptography.
 - **Secure System Design** – Research in secure architectures and data protection.
 
