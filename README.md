@@ -41,7 +41,6 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![](https://github-profile-trophy.vercel.app/?username=Xpl0iS4n&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 <!--
 # 🗂️ Project & App Portfolio
-
 <details>
 <summary><b>🤖 Robotics & Embedded Systems</b></summary>
 
@@ -176,10 +175,61 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=plastic&logo=Udemy&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 <!--
+# 📌 Pinned Projects
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| Advanced Raspberry Pi 4 Robot | Autonomous robot platform with AI navigation | [Repo Link](#) |
+| CTF-Toolkit | Tools and scripts for CTF competitions | [Repo Link](#) |
+| AI for Medicine | Exploratory AI for diagnostics and healthcare | [Repo Link](#) |
+| GameSim | Game mechanics simulation and analytics | [Repo Link](#) |-->
+<!--
+# 🛠️ Skills Matrix
+| Category         | Skills/Technologies                                      |
+|------------------|---------------------------------------------------------|
+| Programming      | Python, C, C++, AssemblyScript, PHP, PowerShell         |
+| AI/ML/DL         | NumPy, Pandas, Plotly, ChatGPT, GitHub Copilot          |
+| Robotics         | ROS, Arduino, Raspberry Pi, nVIDIA, AMD                 |
+| Web/Cloud        | HTML5, CSS3, AWS, Azure, Google Cloud, Git, GitHub      |
+| OS & Platforms   | Windows, Linux, Arch, Debian, Kali, Ubuntu, Android     |
+| Tools            | Notion, Adobe, Canva, Portfolio, CMake                  |
+| Game/Simulation  | Unity, Unreal Engine, Godot, Steam, PSN, Xbox           |
+
+OR
+
+# 🛠️ Skills Matrix
+<p align="center">
+  <img src="https://your-image-link-here.png" alt="Skills Radar Chart" width="400"/>
+</p>
+
+
+Legend:
+- Programming
+- AI/ML/DL
+- Robotics
+- Web/Cloud
+- OS & Platforms
+- Tools
+- Game/Simulation
+-->
+
+<!--
 # 💰 Funding
 [![PayPal](https://img.shields.io/badge/PayPal-00457C.svg?style=plastic&logo=paypal&logoColor=white)]() [![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?style=plastic&logo=shopify&logoColor=white)]()
 -->
+<!--
+# 🏅 Certifications & Achievements
 
+- Ex.1
+- Ex.2
+- Ex.3
+-->
+<!--
+# 📝 Blog Posts or Publications
+
+- [How AI is Changing Robotics](#)
+- [Top 10 CTF Tips](#)
+- [Add your articles or publications here]
+-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xpl0iS4n&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Xpl0iS4n&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -187,6 +237,9 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+# 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xpl0iS4n&theme=tokyo-night)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Xpl0iS4n&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
