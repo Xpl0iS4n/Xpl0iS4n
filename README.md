@@ -34,12 +34,12 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/xpl0is4n)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xpl0iS4n)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tzearthandair@gmail.com)
-
+<!--
 ## 🌍 Dynamic Visitor Map
 <p align="center">
   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Xpl0iS4n" alt="Visitor Map" width="600"/>
 </p>
-
+-->
 <!--Snake game-->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
