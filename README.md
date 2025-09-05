@@ -40,7 +40,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Xpl0iS4n" alt="Visitor Map" width="600"/>
 </p>
 -->
-<!--Snake game-->
+<!--Snake game animation-->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
