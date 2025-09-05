@@ -9,7 +9,7 @@
 # 🗺️ Project Timeline / Roadmap
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Xpl0iS4n&style=flat-square) -->
 
-# 💫 About Me ,mxz,mxz,mxz,mxz,mxz,mxz,mxz,mxz,mxz,mxz
+# 💫 About Me 
 I am a passionate and multidisciplinary student specializing in Robotics and Artificial Intelligence, with a dedication to advancing innovation where technology meets human progress. My academic journey is centered on developing intelligent systems, integrating advanced AI algorithms, and designing robotics solutions that address complex, real-world challenges. My approach combines technical excellence with creativity, leveraging my background in mathematics, physics, and computer science to solve problems with precision and ingenuity.
 
 My interests extend into cybersecurity, where I focus on secure system architecture, ethical hacking, and data protection. I am fascinated by the intersection of emerging technologies and cybersecurity, striving to ensure that intelligent systems are both robust and resilient against evolving digital threats.
