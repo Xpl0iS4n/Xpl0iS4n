@@ -249,3 +249,26 @@ Legend:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Xpl0iS4n&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=Xpl0iS4n&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+drwxr-xr-x. 2 ztawalbe ztawalbe 6 Sep  7 19:13 test0
+drwxr-xr-x. 2 ztawalbe ztawalbe 6 Sep  7 19:19 test1
+drwxr-xr-x. 2 ztawalbe ztawalbe 6 Sep  7 19:13 test2
+drwxr-xr-x. 2 ztawalbe ztawalbe 6 Sep  7 19:19 test3
+drwxr-xr-x. 2 ztawalbe ztawalbe 6 Sep  7 19:19 test4
+drwxr-xr-x. 2 ztawalbe ztawalbe 6 Sep  7 19:19 test5
+drwxr-xr-x. 2 ztawalbe ztawalbe 6 Sep  7 19:19 test6
+
+
+
+drwx--xr-x 2 XX XX XX Jun 1 20:47 test0
+-rwx--xr-- 1 XX XX 4 Jun 1 21:46 test1
+dr-x---r-- 2 XX XX XX Jun 1 22:45 test2
+-r-----r-- 2 XX XX 1 Jun 1 23:44 test3
+-rw-r---x 1 XX XX 2 Jun 1 23:43 test4
+-r-----r-- 2 XX XX 1 Jun 1 23:44 test5
+lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
