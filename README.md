@@ -1,78 +1,27 @@
+#include <stdio.h>
 #include <stdlib.h>
 
-int	ft_strlen(char *str)
+char	*ft_strjoin(int size, char **strs, char *sep);
+
+int	main(void)
 {
-	int	i;
+	char	*arr[] = {"Hello", "42", "World", "Piscine"};
+	char	*sep = " - ";
+	char	*joined;
 
-	i = 0;
-	while (str[i])
-		i++;
-	return (i);
-}
-
-char	*ft_strcpy(char *dest, char *src)
-{
-	int	i;
-
-	i = 0;
-	while (src[i])
+	joined = ft_strjoin(4, arr, sep);
+	if (joined)
 	{
-		dest[i] = src[i];
-		i++;
+		printf("%s\n", joined);
+		free(joined);
 	}
-	dest[i] = '\0';
-	return (dest);
-}
-
-char	*ft_strcat(char *dest, char *src)
-{
-	int	i;
-	int	j;
-
-	i = 0;
-	while (dest[i])
-		i++;
-	j = 0;
-	while (src[j])
+	joined = ft_strjoin(0, arr, sep);
+	if (joined)
 	{
-		dest[i + j] = src[j];
-		j++;
+		printf("Empty: \"%s\"\n", joined);
+		free(joined);
 	}
-	dest[i + j] = '\0';
-	return (dest);
-}
-
-char	*ft_strjoin(int size, char **strs, char *sep)
-{
-	int		i;
-	int		total;
-	char	*res;
-
-	if (size == 0)
-	{
-		res = (char *)malloc(1);
-		if (res)
-			res[0] = '\0';
-		return (res);
-	}
-	total = 0;
-	i = 0;
-	while (i < size)
-		total += ft_strlen(strs[i++]);
-	total += ft_strlen(sep) * (size - 1);
-	res = (char *)malloc(total + 1);
-	if (!res)
-		return (0);
-	res[0] = '\0';
-	i = 0;
-	while (i < size)
-	{
-		ft_strcat(res, strs[i]);
-		if (i < size - 1)
-			ft_strcat(res, sep);
-		i++;
-	}
-	return (res);
+	return (0);
 }
 
 
