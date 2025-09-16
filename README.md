@@ -1,45 +1,13 @@
-#include <stdlib.h>
+#include <stdio.h>
 
-char	*ft_strjoin(int size, char **strs, char *sep)
+int main(void)
 {
-	int		i, j, k, len;
-	char	*res;
-
-	if (size == 0)
-	{
-		res = malloc(1);
-		if (res)
-			res[0] = '\0';
-		return (res);
-	}
-
-	// calculate total length
-	len = 0;
-	for (i = 0; i < size; i++)
-	{
-		for (j = 0; strs[i][j]; j++)
-			len++;
-		if (i < size - 1)
-			for (j = 0; sep[j]; j++)
-				len++;
-	}
-
-	res = malloc(len + 1);
-	if (!res)
-		return (NULL);
-
-	k = 0;
-	for (i = 0; i < size; i++)
-	{
-		for (j = 0; strs[i][j]; j++)
-			res[k++] = strs[i][j];
-		if (i < size - 1)
-			for (j = 0; sep[j]; j++)
-				res[k++] = sep[j];
-	}
-	res[k] = '\0';
-	return (res);
+	char *words[] = {"Hello", "world", "42"};
+	char *s = ft_strjoin(3, words, " - ");
+	printf("%s\n", s); // Output: Hello - world - 42
+	free(s);
 }
+
 
 
 
