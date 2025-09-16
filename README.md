@@ -1,17 +1,3 @@
-#include <stdio.h>
-
-int main(void)
-{
-	char *words[] = {"Hello", "world", "42"};
-	char *s = ft_strjoin(3, words, " - ");
-	printf("%s\n", s); // Output: Hello - world - 42
-	free(s);
-}
-
-
-
-
-
 <h1 align="center">Hello, I am Zaid Tawalbeh</h1>
 <h3 align="center">Robotics & AI/ML/DL Engineer | Data Scientist | CTF Player | Author</h3>
 
