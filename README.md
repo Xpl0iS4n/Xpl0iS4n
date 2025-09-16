@@ -1,3 +1,72 @@
+#include <stdlib.h>
+
+int	ft_strlen(char *str)
+{
+	int	len = 0;
+	while (str[len])
+		len++;
+	return (len);
+}
+
+char	*ft_strcpy(char *dest, char *src)
+{
+	int	i = 0;
+	while (src[i])
+	{
+		dest[i] = src[i];
+		i++;
+	}
+	dest[i] = '\0';
+	return (dest);
+}
+
+char	*ft_strcat(char *dest, char *src)
+{
+	int	i = 0;
+	int	j = 0;
+
+	while (dest[i])
+		i++;
+	while (src[j])
+		dest[i++] = src[j++];
+	dest[i] = '\0';
+	return (dest);
+}
+
+char	*ft_strjoin(int size, char **strs, char *sep)
+{
+	int		total_len = 0;
+	int		i;
+	char	*result;
+
+	if (size == 0)
+	{
+		result = (char *)malloc(1);
+		if (result)
+			result[0] = '\0';
+		return (result);
+	}
+	// calculate required length
+	for (i = 0; i < size; i++)
+		total_len += ft_strlen(strs[i]);
+	total_len += ft_strlen(sep) * (size - 1);
+
+	result = (char *)malloc(total_len + 1);
+	if (!result)
+		return (NULL);
+	result[0] = '\0';
+
+	for (i = 0; i < size; i++)
+	{
+		ft_strcat(result, strs[i]);
+		if (i < size - 1)
+			ft_strcat(result, sep);
+	}
+	return (result);
+}
+
+
+
 <h1 align="center">Hello, I am Zaid Tawalbeh</h1>
 <h3 align="center">Robotics & AI/ML/DL Engineer | Data Scientist | CTF Player | Author</h3>
 
