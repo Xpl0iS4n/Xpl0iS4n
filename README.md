@@ -5,8 +5,8 @@ int	main(int argc, char **argv)
 	int	i;
 	int	j;
 
-	i = 1;
-	while (i < argc)
+	i = argc - 1;
+	while (i > 0)
 	{
 		j = 0;
 		while (argv[i][j])
@@ -15,10 +15,11 @@ int	main(int argc, char **argv)
 			j++;
 		}
 		write(1, "\n", 1);
-		i++;
+		i--;
 	}
 	return (0);
 }
+
 
 
 
