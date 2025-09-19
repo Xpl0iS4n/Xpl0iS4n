@@ -1,3 +1,26 @@
+NAME = rush-01
+CC = cc
+CFLAGS = -Wall -Wextra -Werror
+SRC = main.c parse.c utils.c check.c solve.c
+OBJ = $(SRC:.c=.o)
+
+all: $(NAME)
+
+$(NAME): $(OBJ)
+	$(CC) $(CFLAGS) -o $(NAME) $(OBJ)
+
+clean:
+	rm -f $(OBJ)
+
+fclean: clean
+	rm -f $(NAME)
+
+re: fclean all
+
+
+
+
+
 <h1 align="center">Hello, I am Zaid Tawalbeh</h1>
 <h3 align="center">Robotics & AI/ML/DL Engineer | Data Scientist | CTF Player | Author</h3>
 
