@@ -22,7 +22,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
 - 🌱 **Currently learning:** OSINT, Digital Forensics & Cryptography for CTF tournaments
 - 💬 **Let's connect about:** Collaboration, projects, tech support, or any exciting ideas!
 
-## 🌐 Socials
+# 🌐 Socials
 [![LinkTree](https://img.shields.io/badge/linktree-1de9b6?logo=linktree&logoColor=white)](http://linktr.ee/Xpl0iS4n)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidtawalbeh)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Xpl0iS4n)
@@ -45,7 +45,7 @@ I am committed to contributing meaningful solutions that enhance lives and addre
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Xpl0iS4n&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 <!--
 # 🗂️ Project & App Portfolio
@@ -240,12 +240,12 @@ Legend:
 ![](https://github-readme-stats.vercel.app/api?username=Xpl0iS4n&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Xpl0iS4n&theme=github_dark&hide_border=false)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xpl0iS4n&theme=tokyo-night)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Xpl0iS4n&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=Xpl0iS4n&icon=0&color=0)](https://visitcount.itsvg.in)
