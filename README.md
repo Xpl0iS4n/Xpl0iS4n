@@ -1,3 +1,56 @@
+#include <unistd.h>
+#include "ft_stock_str.h"
+
+struct s_stock_str	*ft_strs_to_tab(int ac, char **av);
+
+static void	ft_putstr(char *str)
+{
+	int	i;
+
+	i = 0;
+	while (str[i])
+	{
+		write(1, &str[i], 1);
+		i++;
+	}
+}
+
+static void	ft_putnbr(int nb)
+{
+	char	c;
+
+	if (nb >= 10)
+		ft_putnbr(nb / 10);
+	c = (nb % 10) + '0';
+	write(1, &c, 1);
+}
+
+int	main(int ac, char **av)
+{
+	int			i;
+	t_stock_str	*tab;
+
+	tab = ft_strs_to_tab(ac - 1, av + 1);
+	if (!tab)
+		return (1);
+	i = 0;
+	while (tab[i].str)
+	{
+		ft_putstr("Original: ");
+		ft_putstr(tab[i].str);
+		write(1, "\n", 1);
+		ft_putstr("Length: ");
+		ft_putnbr(tab[i].size);
+		write(1, "\n", 1);
+		ft_putstr("Copy: ");
+		ft_putstr(tab[i].copy);
+		write(1, "\n\n", 2);
+		i++;
+	}
+	return (0);
+}
+
+
 <h1 align="center">Hello, I am Zaid Tawalbeh</h1>
 <h3 align="center">Robotics & AI/ML/DL Engineer | Data Scientist | CTF Player | Author</h3>
 
