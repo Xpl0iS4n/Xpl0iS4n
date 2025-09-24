@@ -1,53 +1,58 @@
-#include <unistd.h>
+#include <stdlib.h>
 #include "ft_stock_str.h"
 
-struct s_stock_str	*ft_strs_to_tab(int ac, char **av);
-
-static void	ft_putstr(char *str)
+static int	ft_strlen(char *str)
 {
-	int	i;
+	int	len;
 
+	len = 0;
+	while (str[len])
+		len++;
+	return (len);
+}
+
+static char	*ft_strdup(char *src)
+{
+	int		i;
+	int		len;
+	char	*dup;
+
+	len = ft_strlen(src);
+	dup = (char *)malloc((len + 1) * sizeof(char));
+	if (!dup)
+		return (NULL);
 	i = 0;
-	while (str[i])
+	while (src[i])
 	{
-		write(1, &str[i], 1);
+		dup[i] = src[i];
 		i++;
 	}
+	dup[i] = '\0';
+	return (dup);
 }
 
-static void	ft_putnbr(int nb)
+struct s_stock_str	*ft_strs_to_tab(int ac, char **av)
 {
-	char	c;
+	int				i;
+	t_stock_str		*tab;
 
-	if (nb >= 10)
-		ft_putnbr(nb / 10);
-	c = (nb % 10) + '0';
-	write(1, &c, 1);
-}
-
-int	main(int ac, char **av)
-{
-	int			i;
-	t_stock_str	*tab;
-
-	tab = ft_strs_to_tab(ac - 1, av + 1);
+	tab = (t_stock_str *)malloc((ac + 1) * sizeof(t_stock_str));
 	if (!tab)
-		return (1);
+		return (NULL);
 	i = 0;
-	while (tab[i].str)
+	while (i < ac)
 	{
-		ft_putstr("Original: ");
-		ft_putstr(tab[i].str);
-		write(1, "\n", 1);
-		ft_putstr("Length: ");
-		ft_putnbr(tab[i].size);
-		write(1, "\n", 1);
-		ft_putstr("Copy: ");
-		ft_putstr(tab[i].copy);
-		write(1, "\n\n", 2);
+		tab[i].size = ft_strlen(av[i]);
+		tab[i].str = av[i];
+		tab[i].copy = ft_strdup(av[i]);
+		if (!tab[i].copy)
+			return (NULL);
 		i++;
 	}
-	return (0);
+	tab[i].str = 0;
+	tab[i].copy = 0;
+	tab[i].size = 0;
+	return (tab);
 }
 
 
